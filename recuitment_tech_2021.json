@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/armingrudd/UpSet/blob/main/recuitment_tech_2021_upset.csv",
+	"file": "https://raw.githubusercontent.com/armingrudd/UpSet/main/recuitment_tech_2021_upset.csv",
 	"name": "Recuitment Tech 2021",
 	"header": 0,
 	"separator": ";",
