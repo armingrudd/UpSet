@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/armingrudd/UpSet/main/Recruitment_Tech_2021.csv",
+	"name": "Recuitment Tech 2021",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "string", "index": 1, "name": "Domains" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 10 }
+	]
+}
