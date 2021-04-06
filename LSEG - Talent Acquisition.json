@@ -9,6 +9,6 @@
 		{ "type": "string", "index": 1, "name": "Domains" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 61 }
+		{ "format": "binary", "start": 2, "end": 61 }
 	]
 }
