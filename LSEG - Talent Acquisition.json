@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/armingrudd/UpSet/main/LSEG%20-%20Talent%20Acquisition.csv",
+	"name": "LSEG - Talent Acquisition",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "string", "index": 1, "name": "Domains" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 61 }
+	]
+}
